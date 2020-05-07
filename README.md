@@ -1,8 +1,8 @@
 # NLP-Workshop
 
-# Lycrics Generator
+# Text Generator
 
-generate lyrics using markov model.
+generate lyrics( or any kind of text ) using markov model.
 
 # Emoji Predictor
 
